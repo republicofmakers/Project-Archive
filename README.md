@@ -301,3 +301,9 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW           |  GPU         |  NVIDIA      |  Orin Nano    |  016          |  Can                     |[Click](https://github.com/republicofmakers/SW-GPU-NVIDIA-CAN-16) |
 
  <br>
+
+  
+### TI Sitera / ST Microelectronics MPUs -> COMING IN End of 2025
+
+### Xilinx / Lattice FPGAs -> COMING IN 2026
+
