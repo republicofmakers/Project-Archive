@@ -45,7 +45,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 | SW | MCU | SAMD21 | USB | 015 | USB basics | [Click](https://github.com/republicofmakers/SW-XIAO-Arduino-MG24-015) |
 | SW | MCU | nRF52 | BLE | 016 | nRF52840 BLE | [Click](https://github.com/republicofmakers/SW-XIAO-Arduino-BLE-016) |
 
-> ✅ Spelling & casing normalized: **PWM**, **CAN**, **RS-485**, **ESPHome**, **Zigbee**, **Matter**.
 
 <br><br><br>
 
