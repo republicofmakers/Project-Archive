@@ -293,6 +293,22 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 <br>
 
+### ST Micro MP Series (Linux)
+
+| Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
+|:---:|:---:|:---:|:---|:---:|:---|:---:|
+| SW | MCU | STM32MP157 | Buildroot | 001 | Image Create | [Click](https://github.com/republicofmakers/SW-MPU-STMicro-Buildroot-01) |
+| SW | MCU | STM32MP157 | Yocto | 002 | Image Create | [Click]() |
+| SW | MCU | STM32MP157 | Yocto | 003 | Flash SD Card | [Click]() |
+| SW | MCU | STM32MP157 | Yocto | 004 | Custom Image| [Click]() |
+| SW | MCU | STM32MP157 | Yocto | 005 | I2C Device Tree | [Click]() |
+| SW | MCU | STM32MP157 | Yocto | 006 | Custom Application| [Click]() |
+| SW | MCU | STM32MP157 | Yocto | 007 | Wifi Driver | [Click]() |
+
+
+<br><br><br>
+
+
 ### Coming Soon
 - **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2025*  
 - **Xilinx / Lattice FPGAs** → *ETA: 2026*
