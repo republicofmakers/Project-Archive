@@ -293,7 +293,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 <br>
 
-### ST Micro MP Series (Linux)
+### ST Micro MP Series (Linux) -> Coming Soon
 
 | Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
 |:---:|:---:|:---:|:---|:---:|:---|:---:|
@@ -309,6 +309,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br><br><br>
 
 
-### Coming Soon
+### 2026 Plans for helping community
 - **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2025*  
 - **Xilinx / Lattice FPGAs** → *ETA: 2026*
