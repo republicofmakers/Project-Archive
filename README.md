@@ -201,26 +201,27 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 <br><br><br>
 
-### Raspberry Pi (4B)
+### Raspberry Pi ()
 
 | Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
 |:---:|:---:|:---:|:---|:---:|:---|:---:|
-| SW | CPU | Broadcom | Raspberry Pi | 001 | Install Linux | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Linux-001) |
-| SW | CPU | Broadcom | Raspberry Pi | 002 | Test camera | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Camera-002) |
-| SW | CPU | Broadcom | Raspberry Pi | 003 | Display | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Display-003) |
-| SW | CPU | Broadcom | Raspberry Pi | 004 | Audio | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Audio-004) |
-| SW | CPU | Broadcom | Raspberry Pi | 005 | GPIO | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-GPIO-005) |
-| SW | CPU | Broadcom | Raspberry Pi | 006 | UART / I²C | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-UART-006) |
-| SW | CPU | Broadcom | Raspberry Pi | 007 | ADC | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-ADC-007) |
-| SW | CPU | Broadcom | Raspberry Pi | 008 | PWM | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-PWM-008) |
-| SW | CPU | Broadcom | Raspberry Pi | 009 | USB | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-USB-009) |
-| SW | CPU | Broadcom | Raspberry Pi | 010 | SPI | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-SPI-010) |
-| SW | CPU | Broadcom | Raspberry Pi | 011 | I²S | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2S-011) |
-| SW | CPU | Broadcom | Raspberry Pi | 012 | LoRa | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-LORA-012) |
-| SW | CPU | Broadcom | Raspberry Pi | 013 | CAN | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-CAN-013) |
-| SW | CPU | Broadcom | Raspberry Pi | 014 | RS-485 | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS485-014) |
-| SW | CPU | Broadcom | Raspberry Pi | 015 | RS-232 | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS232-015) |
-| SW | CPU | Broadcom | Raspberry Pi | 016 | 4G | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-4G-016) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 001 | Install Linux | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Linux-001) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 002 | Test camera | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Camera-002) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 003 | Display | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Display-003) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 004 | Audio | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Audio-004) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 005 | GPIO | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-GPIO-005) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 006 | UART / I²C | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-UART-006) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 007 | ADC | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-ADC-007) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 008 | PWM | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-PWM-008) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 009 | USB | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-USB-009) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 010 | SPI | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-SPI-010) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 011 | I²S | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-I2S-011) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 012 | LoRa | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-LORA-012) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 013 | CAN | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-CAN-013) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 014 | RS-485 | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS485-014) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 015 | RS-232 | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-RS232-015) |
+| SW | CPU | Broadcom | Raspberry Pi 4B | 016 | 4G | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-4G-016) |
+| SW | CPU | Broadcom | Raspberry Pi CM5| 017 | Hailo | [Click](https://github.com/republicofmakers/SW-CPU-RaspberryPi-Hailo-017) |
 
 <br><br><br>
 
