@@ -201,7 +201,7 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 <br><br><br>
 
-### Raspberry Pi ()
+### Raspberry Pi
 
 | Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
 |:---:|:---:|:---:|:---|:---:|:---|:---:|
