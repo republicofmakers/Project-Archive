@@ -310,6 +310,6 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 <br><br><br>
 
 
-### 2026 Plans for helping community
+### 2027 Plans for helping community
 - **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2026*  
 - **Xilinx / Lattice FPGAs** → *ETA: 2027*
