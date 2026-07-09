@@ -311,5 +311,5 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 
 ### 2026 Plans for helping community
-- **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2025*  
-- **Xilinx / Lattice FPGAs** → *ETA: 2026*
+- **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2026*  
+- **Xilinx / Lattice FPGAs** → *ETA: 2027*
