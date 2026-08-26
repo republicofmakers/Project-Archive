@@ -327,7 +327,7 @@ Linux Projects:
 | Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
 |:---:|:---:|:---:|:---|:---:|:---|:---:|
 | SW | FPGA | Xilinx | Zynq7020 | 001 | Led Blink   | [Click]() |
-| SW | FPGA | Xilinx | Zynq7020 | 002 | Push Button | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 002 | Tactile Switch | [Click]() |
 | SW | FPGA | Xilinx | Zynq7020 | 003 | Clock       | [Click]() |
 | SW | FPGA | Xilinx | Zynq7020 | 004 | QSPI Boot   | [Click]() |
 | SW | FPGA | Xilinx | Zynq7020 | 005 | RS485 (PL)  | [Click]() |
