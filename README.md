@@ -1,26 +1,38 @@
 # Project-Archive
 
-## 🌍 Giving Back to the Community
+## These are the project that I made to learn electronics engineering
 
-I’ve created numerous repositories and projects to share knowledge and contribute to the engineering community, reflecting my commitment to **open learning and collaboration**. While I’ve learned from senior engineers, I am now an experienced engineer specializing in **IoT and AI**—focused on building innovative, reliable solutions and continuously improving my skills. With perseverance and hard work, I aim to grow further in this field. Along the way, I remain committed to supporting **junior engineers** by sharing helpful resources and guidance to make their journey into the field easier and more accessible.
+Note: These are not the projects that I make for companies. Please reach me for a CV or a portfolio.
 
+<br><br><br>
+Its fun to play projects:
+- [x86 Mini PC with AI / PoE / GPIO](#x86-mini-pc-with-ai--poe--gpio)
+- [Panelized MCU Programmer / Tester](#panelized-mcu-programmer--tester)
 ---
 
-### 🔗 Quick Navigation
+### Starter codes for testing devices
+IDE -> Arduino IDE
 - [Xiao Series (Arduino IDE)](#xiao-series-arduino-ide)
 - [Espressif Microcontrollers (Arduino IDE)](#espressif-microcontrollers-arduino-ide)
 - [NXP Microcontrollers (Arduino IDE)](#nxp-microcontrollers-arduino-ide)
 - [WCH Microcontrollers (Arduino IDE)](#wch-microcontrollers-arduino-ide)
+
+IDE -> Thonny IDE
 - [Raspberry Pi Pico Series (Thonny IDE)](#raspberry-pi-pico-series-thonny-ide)
+
+IDE -> Atmel Studio
 - [Atmel Microcontrollers (Atmel Studio)](#atmel-microcontrollers-atmel-studio)
 - [Microchip Microcontrollers (MPLAB IDE)](#microchip-microcontrollers-mplab-ide)
+
+IDE -> STM32CubeIDE
 - [STMicroelectronics Microcontrollers (STM32CubeIDE)](#stmicroelectronics-microcontrollers-stm32cube-ide)
-- [Panelized MCU Programmer / Tester](#panelized-mcu-programmer--tester)
-- [x86 Mini PC with AI / PoE / GPIO](#x86-mini-pc-with-ai--poe--gpio)
-- [Raspberry Pi (4B)](#raspberry-pi-4b)
+
+Linux Projects:
+- [Raspberry Pi](#raspberry-pi)
 - [Rockchip RK3588S (Radxa CM5)](#rockchip-rk3588s)
 - [NVIDIA (Jetson Orin Nano)](#nvidia-jetson-orin-nano)
-- [Coming Soon](#coming-soon)
+- Yocto -> Will added (on going)
+- Xilinx-> Will added (on going)
 
 ---
 
@@ -294,22 +306,47 @@ I’ve created numerous repositories and projects to share knowledge and contrib
 
 <br>
 
-### ST Micro MP Series (Linux) -> Coming Soon
+### ST Micro MP Series (Linux) (on going)
 
 | Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
 |:---:|:---:|:---:|:---|:---:|:---|:---:|
-| SW | MCU | STM32MP157 | Buildroot | 001 | Image Create | [Click](https://github.com/republicofmakers/SW-MPU-STMicro-Buildroot-01) |
-| SW | MCU | STM32MP157 | Yocto | 002 | Image Create | [Click]() |
-| SW | MCU | STM32MP157 | Yocto | 003 | Flash SD Card | [Click]() |
-| SW | MCU | STM32MP157 | Yocto | 004 | Custom Image| [Click]() |
-| SW | MCU | STM32MP157 | Yocto | 005 | I2C Device Tree | [Click]() |
-| SW | MCU | STM32MP157 | Yocto | 006 | Custom Application| [Click]() |
-| SW | MCU | STM32MP157 | Yocto | 007 | Wifi Driver | [Click]() |
+| SW | MPU | STMicro | Buildroot | 001 | Image Create | [Click](https://github.com/republicofmakers/SW-MPU-STMicro-Buildroot-01) |
+| SW | MPU | STMicro | Yocto     | 002 | Image Create | [Click]() |
+| SW | MPU | STMicro | Yocto     | 003 | Flash SD Card | [Click]() |
+| SW | MPU | STMicro | Yocto     | 004 | Custom Image| [Click]() |
+| SW | MPU | STMicro | Yocto     | 005 | I2C Device Tree | [Click]() |
+| SW | MPU | STMicro | Yocto     | 006 | Custom Application| [Click]() |
+| SW | MPU | STMicro | Yocto     | 007 | Wifi Driver | [Click]() |
 
 
-<br><br><br>
+<br>
 
 
-### 2027 Plans for helping community
-- **TI Sitara / STMicroelectronics MPUs** → *ETA: End of 2026*  
-- **Xilinx / Lattice FPGAs** → *ETA: 2027*
+### ST Micro MP Series (Linux) (on going)
+
+| Abb. | Type | Brand | Title | Project No. | Description | Repo Link |
+|:---:|:---:|:---:|:---|:---:|:---|:---:|
+| SW | FPGA | Xilinx | Zynq7020 | 001 | Led Blink   | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 002 | Push Button | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 003 | Clock       | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 004 | QSPI Boot   | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 005 | RS485 (PL)  | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 006 | DDR RAM     | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 007 | GB ethernet | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 008 | HDMI        | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 009 | Petalinux (EMMC)    | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 010 | Petalinux (SD Card) | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 011 | UART (PS)    | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 012 | GPIO (PS)    | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 013 | CAN (PS)     | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 014 | RS485 (PS)   | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 015 | USB (PS)     | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 016 | ADC          | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 017 | RTC / I2C    | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 018 | SPI          | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 019 | PWM          | [Click]() |
+| SW | FPGA | Xilinx | Zynq7020 | 020 | MIPI Camera  | [Click]() |
+
+
+<br>
+
