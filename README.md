@@ -4,11 +4,6 @@
 
 Note: These are not the projects that I make for companies. Please reach me for a CV or a portfolio.
 
-<br><br><br>
-Its fun to play projects:
-- [x86 Mini PC with AI / PoE / GPIO](#x86-mini-pc-with-ai--poe--gpio)
-- [Panelized MCU Programmer / Tester](#panelized-mcu-programmer--tester)
----
 
 ### Starter codes for testing devices
 IDE -> Arduino IDE
