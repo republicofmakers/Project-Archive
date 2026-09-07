@@ -1,11 +1,9 @@
 # Project-Archive
 
-## These are the project that I made to learn electronics engineering
+**Important:** These are personal/hobby projects. Industrial and company work portfolio available on request -> [Github Overview](https://republicofmakers.com/)
 
-Note: These are not the projects that I make for companies. Please reach me for a CV or a portfolio.
+<br><br><br>
 
-
-### Starter codes for testing devices
 IDE -> Arduino IDE
 - [Xiao Series (Arduino IDE)](#xiao-series-arduino-ide)
 - [Espressif Microcontrollers (Arduino IDE)](#espressif-microcontrollers-arduino-ide)
