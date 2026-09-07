@@ -198,15 +198,7 @@ Linux Projects:
 
 <br><br><br>
 
-### Panelized MCU Programmer / Tester
-**Programming / testing multiple PCBs with pogo pins** → [Click](https://github.com/republicofmakers/HW-KICAD-FREECAD-MCU-Programmer)
 
-<br><br><br>
-
-### x86 Mini PC with AI / PoE / GPIO
-**My Custom Mini PC** — compact AI-powered mini PC I built and use as a secondary system → [Click](https://github.com/republicofmakers/HW-IntelN100-Mini-AI-PC)
-
-<br><br><br>
 
 ### Raspberry Pi
 
